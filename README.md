@@ -27,6 +27,3 @@ A new entry will be added to the CSV file every time it's run.
 ## Expansion Plans
 
 I may add more questions, daily quotes, or graphs to see my progress over time.
-
-```
-
